@@ -1,0 +1,6 @@
+# Node.js
+todo-server/node_modules/
+
+# React
+todo-client/node_modules/
+todo-client/build/
